@@ -1,0 +1,22 @@
+{
+  "name": "uuid-example",
+  "version": "1.0.0",
+  "description": "uuid-example",
+  "author": "AGUMON",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "uuid": "^3.3.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bynodejs/uuid.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bynodejs/uuid/issues"
+  },
+  "homepage": "https://github.com/bynodejs/uuid#readme"
+}
